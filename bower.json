@@ -1,0 +1,20 @@
+{
+  "name": "English-routinely-wordcards",
+  "homepage": "https://github.com/clown-0726/English-routinely-wordcards",
+  "authors": [
+    "Crown <crown_0726@163.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
