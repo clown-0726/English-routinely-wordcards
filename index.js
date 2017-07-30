@@ -2,12 +2,12 @@ $(function () {
     var fileNameList = ['11-amphibians.html', '11-birds.html', '11-fish.html', '11-insect.html', '11-mammal.html',
         '22-flower.html', '22-trees.html',
         '33-fruits.html', '33-grain.html', '33-vegetables.html',
-        '44-others.html'
+        '44-others.html','55-garment.html'
     ];
     var categoryNameList = ['amphibians', 'birds', 'fish', 'insect', 'mammal',
         'flower', 'trees',
         'fruits', 'grain', 'vegetables',
-        'others'
+        'others','garment'
     ];
 
     for (var i = 0; i < fileNameList.length; i++) {
